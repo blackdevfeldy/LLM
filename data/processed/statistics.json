@@ -1,0 +1,11 @@
+{
+  "total_instances": 9492,
+  "fraud_instances": 2053,
+  "legitimate_instances": 7439,
+  "fraud_ratio": 0.2162873999157185,
+  "sources": {
+    "uci_sms": 5127,
+    "moz_smishing": 2536,
+    "phishing_dataset": 1829
+  }
+}
